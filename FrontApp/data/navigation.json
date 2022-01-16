@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "title": "Custom Components",
+    "dd": false,
+    "icon": "mdi-arrow-right",
+    "to": "/"
+  }
+]

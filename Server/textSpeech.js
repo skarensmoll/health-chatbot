@@ -1,8 +1,12 @@
 // Imports the Google Cloud client library
 const textToSpeech = require('@google-cloud/text-to-speech');
 
+const projectId = 'ferrous-aleph-337822'
+const keyFilename = 'ferrous-aleph-337822-f206ea98cce2.json'
+const keyFilenameFull = 'C:\GIT\healthchatbot\Server\ferrous-aleph-337822-f206ea98cce2.json'
+
 // Creates a client
-const client = new textToSpeech.TextToSpeechClient();
+const client = new textToSpeech.TextToSpeechClient({keyFilename});
 async function cast(text = 'hello, world!') {
   // Construct the request
   const request = {

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ferrous-aleph-337822",
+  "private_key_id": "6283d7bf304d24e90774c02c4d05041ad96dcfd1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDY3+jCZdj/y6C6\ns3OhZwPKqy/S4nCQVzJozWH1cQii8j0hHPyU0nRZ5+OCfKrIOjkRw1Hn14TfrEo7\niqMBR8QQGgkDHUtqThmlYk0+veEpZAuI4rKFJ3sD+SpDWHWt73BJYA7SwOB/JUUo\n8nQIxh8ztBi52295UotjzUOEkWupNYg5RoR/y2GQMk3jGhedYHV0//qLxee+pPqn\nvTQXjXKRuGUdMvslFnxQhgh1IXZ7yidBBpME5X89ljIgXQfSOtFy9OvWfjdKsaUf\nKr4t3z95wEnvpQRwvti+zGyTPGudk+BWicfnsVBummM/cC5BjdGL4O2hwgGSW3aF\nWkBpq8mdAgMBAAECggEAJHMvjNqux8Eq3K4z+TTV5Y5zfXta5VuOaKBaPjT2+WIC\nxam4Ru//J6wqaAA5eOkWNebQwYlOtwQfPtYccubjrDwf9yLJjc6eD1aP+oNR0FHV\nAXbuf6Qk0ARk5sg7kRX81ow7OY86vAvgzZLAT0gzLs6uWDBqEic+L7IsTp/dSyUZ\nqw+G3cpj1OzUEV2EcSKhQ0JtopmPIFnHtUjb5Q5pDuD4hwoJtN/sYZVbSmsB+hzA\nIeGaRxHDP6hYA6Vrf3dtrOMsrPoNtPc1m+c1qYc4u+V2s80qvyo64W1VggrUsZfo\nWVci5ymp+/7yPe7A3YFDSRhR7H8/ZUORlYw5BOdcUQKBgQDxqX3W6DYIgdRz8xur\nw3l7XEl1wIMAn9pgispwoJrdlEYpPYy9e9lA+PUfo2lnM/j97X0ZhXssraK4fntW\nlSVrchjK3sxrYf6rV4aScU24dMo0hR+3BnKDlR5ZonBYJSkt5GK3hF49SmHp0rLG\nkoueKpdE0Lc563Sy1X/dQpy1UQKBgQDlve5pl3AfqNl8JzyvIcfqvgOehw3xEF9I\nYHamQIDA98xAKVXRwKbsNFIMvQzgW90IPSfeMwxlXdiOsfvV84gUpQ2qrRVyPhop\nI0IIJfLLBvqLMrt9Ljgiex6GI+o4fvZ2JsrLkBGbDe79lzm9jiFj0xZsSEjmucTC\nfL5ZwpIsjQKBgG5k0NmFhnloZZb6LV/PkgUqaVxjLvTwESAdBtFgbJ5gB5T7Svmc\nQ+iMUd28FoBQm6PUA1vPQC9uunCxRsKMq2Vj37N9B8DeKSo4d38aRzjGEUDgt1Yy\nmclGK3Ei5VM+1oriU74lt68j9YqM96ICe8krB6Ml/S12Q/8VzK1UqqWhAoGASg7N\nudANXsdJRFJJp5LWJP+XnxSeE+VZMbWWycTlPE8k0lIAzhqyNFYxVNXkPraeK7e7\nEE+YYVy9IFKTgcZ9SVpja29cCHWobTZmZMYG3Bel0BVMhu/NPKA/mLIfIJMc071x\nhektI7R8I9cJz+bvMIStJ76tcWLU4HThz4F/KUkCgYBTsHLxcT9/qc2J2AzLnH2g\nF2xVoFCcyhI3WN5M8nhVuC2oK76Nran+nZYZvkkpFBnk27NAk+4fp6jzNbmnB/ca\nPWvlyLtTZso2OLuusnMHQxJ2MGCmRNte199woGOzfXen32F/GzHv4cgVVFgM5pc5\nVvATAr0UlR3xFbj4KQEO0Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "uni-htw-service-account@ferrous-aleph-337822.iam.gserviceaccount.com",
+  "client_id": "117931963153281637012",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uni-htw-service-account%40ferrous-aleph-337822.iam.gserviceaccount.com"
+}

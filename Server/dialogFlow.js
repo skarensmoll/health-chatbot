@@ -1,9 +1,14 @@
 const dialogflow = require('@google-cloud/dialogflow').v2beta1;
 const uuid = require('uuid');
 
+const projectId = 'ferrous-aleph-337822'
+const keyFilename = "ferrous-aleph-337822-f206ea98cce2.json"
+
+
+const sessionClient = new dialogflow.SessionsClient({projectId, keyFilename});
+
 async function runSample(query, sessionId, projectId = 'ferrous-aleph-337822') {
   // Create a new session
-  const sessionClient = new dialogflow.SessionsClient();
   const sessionPath = sessionClient.projectAgentSessionPath(
     projectId,
     sessionId
